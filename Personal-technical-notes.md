@@ -1,6 +1,8 @@
-## [个人技术笔记模板](#) 
+## [个人技术笔记模板](#)  <b id="top"></b>
 
-##### [1.目录-上下索引 ](https://github.com/kickgod/Front-End/blob/master/Javascript/Javascript5/JavaScriptFunction.md)
+##### [1.目录-上下索引 ](#top)
+[`模板例子`](https://github.com/kickgod/Front-End/blob/master/Javascript/Javascript5/JavaScriptFunction.md)
+
   - [x] `如果此节已经写完目录使用此标注 ` 
   - [ ] `如果此节尚未写完目录使用此标注 ` 
   * `目录从 1 ~ 开始向下计数 标记`
