@@ -41,14 +41,14 @@
 ##### 模板
 ```markdown
 ### [文章标题](#top) :grey_exclamation: <b id="top"></b>
-:white_check_mark: `文章简单介绍概括`
+`文章简单介绍概括`:white_check_mark:
 
 ------
 
-- [x] [`title1`](#target1)
-      - [`little-title`](#little1)
-- [x] [`title2`](#target2)
-- [ ] [`title3`](#target3)
+- [x] [`1.title1`](#target1)
+     - [`little-title`](#little1)
+- [x] [`2.title2`](#target2)
+- [ ] [`3.title3`](#target3)
 
 ------
 
@@ -59,10 +59,10 @@
 #####  :octocat: [1.1 little-title](#top) <b id="little1"></b> 
 ...
 
-#####  :octocat: [2.title1](#top) <b id="target1"></b> 
+#####  :octocat: [2.title2](#top) <b id="target2"></b> 
 ...
 
-#####  :octocat: [3.title1](#top) <b id="target1"></b> 
+#####  :octocat: [3.title3](#top) <b id="target3"></b> 
 ...
 
 
@@ -72,6 +72,6 @@
 `作者:` `模板` 
 `完成时间`:`2018年12月31日18:33:38`
 `备注信息`: `禁止转载` 
-
-
 ```
+
+
