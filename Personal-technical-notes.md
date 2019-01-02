@@ -1,13 +1,13 @@
 ## [个人技术笔记模板](#)  <b id="top"></b>
 
-##### [1.目录-上下索引 ](#top)
+##### [1.模板规则说明](#top)
 [`模板例子`](https://github.com/kickgod/Front-End/blob/master/Javascript/Javascript5/JavaScriptFunction.md)
 
   - [x] `如果此节已经写完目录使用此标注 ` 
   - [ ] `如果此节尚未写完目录使用此标注 ` 
   * `目录从 1 ~ 开始向下计数 标记`
   * `子目录无需标注`
-  
+  - [`图标选择`](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 `例子如下`
 
 ----
@@ -24,21 +24,7 @@
 
 ----
 
-`每一节的内容使用反向连接到 顶部就可以了` 
-
-```markdown
-文档标题
-### [JavaScript 函数](#top) :grey_exclamation: <b id="top"></b>
-:white_check_mark: `Javascript 函数有很多的其他深层次的东西`
-
-目录
-> - [x] [`8.模块模式`](#module)
-
-第八节内容
-#####  :octocat: [8.模块模式](#top) <b id="module"></b> 
-```
-
-##### 模板
+##### 模板实例
 ```markdown
 ### [文章标题](#top) :grey_exclamation: <b id="top"></b>
 `文章简单介绍概括`:white_check_mark:
@@ -53,18 +39,21 @@
 ------
 
 #####  :octocat: [1.title1](#top) <b id="target1"></b> 
+`概括`
 ...
 ...
 
-#####  :octocat: [1.1 little-title](#top) <b id="little1"></b> 
+#####  [1.1 little-title](#top) <b id="little1"></b> 
+`概括`
 ...
 
 #####  :octocat: [2.title2](#top) <b id="target2"></b> 
+`概括`
 ...
 
 #####  :octocat: [3.title3](#top) <b id="target3"></b> 
+`概括`
 ...
-
 
 
 
@@ -74,4 +63,9 @@
 `备注信息`: `禁止转载` 
 ```
 
+##### 图标选择建议
+- :star:  :grey_exclamation:  :speech_balloon:   :thought_balloon:  :ram:  :octocat:  :cloud:  :partly_sunny: :triangular_flag_on_post:
 
+- :zero: :one: :two: :three:  :four:  :five:  :six: :seven:  :eight: :nine:
+
+- :arrow_lower_left: :arrow_upper_right:
