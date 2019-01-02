@@ -8,7 +8,9 @@
   * `目录从 1 ~ 开始向下计数 标记`
   * `子目录无需标注`
   - [`图标选择`](https://github.com/guodongxiaren/README/blob/master/emoji.md)
-`例子如下`
+
+
+`目录例子如下`
 
 ----
   
