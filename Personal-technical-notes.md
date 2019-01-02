@@ -71,3 +71,14 @@
 - :zero: :one: :two: :three:  :four:  :five:  :six: :seven:  :eight: :nine:
 
 - :arrow_lower_left: :arrow_upper_right:
+
+```c#
+1排 :star: :grey_exclamation: :speech_balloon:   :thought_balloon: :ram: :octocat: :cloud:
+
+:partly_sunny: :triangular_flag_on_post:
+
+
+2排 :zero: :one: :two: :three:  :four:  :five:  :six: :seven:  :eight: :nine:
+
+3排 :arrow_lower_left: :arrow_upper_right:
+```
