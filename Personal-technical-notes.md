@@ -82,3 +82,38 @@
 
 3排 :arrow_lower_left: :arrow_upper_right:
 ```
+
+##### 简约版
+```markdown
+### [文章标题](#top) <b id="top"></b>
+`文章简单介绍概括`:white_check_mark:
+
+------
+
+- [x] [`1.title1`](#target1)
+- [x] [`2.title2`](#target2)
+- [x] [`3.title3`](#target3)
+
+------
+
+#####  [1.title1](#top) <b id="target1"></b> 
+`概括`
+
+
+
+#####  [2.title2](#top) <b id="target2"></b> 
+`概括`
+
+
+#####  [3.title3](#top) <b id="target3"></b> 
+`概括`
+
+
+
+
+--------------------
+`作者:` `模板` 
+`完成时间`:`2018年12月31日18:33:38`
+`备注信息`: `任意使用` 
+```
+
